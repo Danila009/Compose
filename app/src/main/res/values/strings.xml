@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Google_Maps</string>
+    <string name="title_activity_compose_maps">ComposeMaps</string>
+    <string name="title_activity_xml_googlemaps">XML_GOOGLEMAPS</string>
+    <string name="title_activity_test_maps_google">TestMapsGoogle</string>
+    <string name="title_activity_recucler_view">RecuclerView</string>
+    <string name="title_activity_gradient">Gradient</string>
+    <string name="title_activity_search_view">SearchView</string>
+    <string name="title_activity_intent_button_navigation_view">intentButtonNavigationView</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="title_activity_ad_mob_compose">AdMobCompose</string>
+    <string name="title_activity_tab">TabAct</string>
+    <string name="title_activity_animated">AnimatedAct</string>
+    <string name="title_activity_pager">PagerAct</string>
+    <string name="title_activity_lazy_vertical_grid">LazyVerticalGrid</string>
+    <string name="title_activity_authentication">Authentication</string>
+    <string name="title_activity_video">VideoAct</string>
+    <string name="title_activity_api">ApiAct</string>
+    <string name="title_activity_more_details">MoreDetails</string>
+</resources>
